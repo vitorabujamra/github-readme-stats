@@ -215,7 +215,7 @@ const createProgressTextNode = ({ width, color, name, progress, index }) => {
 
   return `
     <g class="stagger" style="animation-delay: ${staggerDelay}ms">
-      <text data-testid="lang-name" x="2" y="15" class="lang-name">${( name.toUpperCase() == 'XBASE' ? 'ADVPL' : 'ADVPL' )}</text>
+      <text data-testid="lang-name" x="2" y="15" class="lang-name">${( name.toUpperCase() == 'XBASE' ? 'ADVPL' : name )}</text>
       <text x="${progressTextX}" y="34" class="lang-name">${progress}%</text>
       ${createProgressNode({
         x: 0,
