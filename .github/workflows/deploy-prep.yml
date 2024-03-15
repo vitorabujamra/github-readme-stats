@@ -7,7 +7,7 @@ on:
 
 jobs:
   config:
-    if: github.repository == 'anuraghazra/github-readme-stats'
+    if: github.repository == 'vitorabujamra/github-readme-stats'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@b4ffde65f46336ab88eb53be808477a3936bae11 # v4.1.1

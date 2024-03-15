@@ -1,37 +1,37 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <img width="100px" src="https://res.cloudinary.com/vitorabujamra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">पहुनु होस् द्य्नामिचल्ली गेनेरटे गितहब  रेअडमी सतत  </p>
+ <p align="center">पहढ़नढ़ होसढ़ दढ़यढ़नामिचलढ़ली गेनेरटे गितहब  रेअडमी सतत  </p>
 </p>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    <a href="https://github.com/vitorabujamra/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/vitorabujamra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
+    <a href="https://github.com/vitorabujamra/github-readme-stats/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/vitorabujamra/github-readme-stats" />
     </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img alt="Tests Coverage" src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
+    <a href="https://codecov.io/gh/vitorabujamra/github-readme-stats">
+      <img alt="Tests Coverage" src="https://codecov.io/gh/vitorabujamra/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/vitorabujamra/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/vitorabujamra/github-readme-stats?color=0088ff" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+    <a href="https://github.com/vitorabujamra/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/vitorabujamra/github-readme-stats?color=0088ff" />
     </a>
-    <a href="https://securityscorecards.dev/viewer/?uri=github.com/anuraghazra/github-readme-stats">
-      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/anuraghazra/github-readme-stats/badge" />
+    <a href="https://securityscorecards.dev/viewer/?uri=github.com/vitorabujamra/github-readme-stats">
+      <img alt="OpenSSF Scorecard" src="https://api.securityscorecards.dev/projects/github.com/vitorabujamra/github-readme-stats/badge" />
     </a>
     <br />
     <br />
   </p>
 
   <p align="center">
-    <a href="#demo">डेमो हेर्नुहोस्</a>
+    <a href="#demo">डेमो हेरढ़नढ़होसढ़</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml">रिपोर्ट बग</a>
+    <a href="https://github.com/vitorabujamra/github-readme-stats/issues/new?assignees=&labels=bug&projects=&template=bug_report.yml">रिपोरढ़ट बग</a>
     ·
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml">अनुरोध सुविधा</a>
+    <a href="https://github.com/vitorabujamra/github-readme-stats/issues/new?assignees=&labels=enhancement&projects=&template=feature_request.yml">अनढ़रोध सढ़विधा</a>
   </p>
   <p align="center">
     <a href="/docs/readme_fr.md">Français </a>
@@ -57,56 +57,56 @@
     <a href="/docs/readme_tr.md">Türkçe</a>
   </p>
 </p>
-<p align="center">परियोजना मनपर्‍यो? तपाईं मद्दत गर्न सक्नुहुन्छ <a href="https://www.paypal.me/anuraghazra">यो परियोजना</a> बढ्न 
+<p align="center">परियोजना मनपरढ़”यो? तपाईं मदढ़दत गरढ़न सकढ़नढ़हढ़नढ़छ <a href="https://www.paypal.me/vitorabujamra">यो परियोजना</a> बढढ़न 
 
-# विशेषताहरु <!-- omit in toc -->
+# विशेषताहरढ़ <!-- omit in toc -->
 
-- [गितहब स्टेट कार्ड](#गितहब-स्टेट-कार्ड)
-    - [लुकाउनु होस् व्यक्तिगत स्टेट](#लुकाउनु-होस्-व्यक्तिगत-स्टेट)
-    - [जोड्नु होस् निजी टोटल  योगदान](#जोड्नु-होस्-निजी-टोटल--योगदान)
-    - [देखाउनु होस् इकोन](#देखाउनु-होस्-इकोन)
-    - [विषयवस्तुहरू](#विषयवस्तुहरू)
-    - [अनुकूलन](#अनुकूलन)
-- [गितहब अतिरिक्त पिन्स](#गितहब-अतिरिक्त-पिन्स)
-    - [प्रयोग](#प्रयोग)
+- [गितहब सढ़टेट कारढ़ड](#गितहब-सढ़टेट-कारढ़ड)
+    - [लढ़काउनढ़ होसढ़ वढ़यकढ़तिगत सढ़टेट](#लढ़काउनढ़-होसढ़-वढ़यकढ़तिगत-सढ़टेट)
+    - [जोडढ़नढ़ होसढ़ निजी टोटल  योगदान](#जोडढ़नढ़-होसढ़-निजी-टोटल--योगदान)
+    - [देखाउनढ़ होसढ़ इकोन](#देखाउनढ़-होसढ़-इकोन)
+    - [विषयवसढ़तढ़हरू](#विषयवसढ़तढ़हरू)
+    - [अनढ़कूलन](#अनढ़कूलन)
+- [गितहब अतिरिकढ़त पिनढ़स](#गितहब-अतिरिकढ़त-पिनढ़स)
+    - [पढ़रयोग](#पढ़रयोग)
     - [डेमो](#डेमो)
-- [टोप भाषा कार्ड](#टोप-भाषा-कार्ड)
-    - [प्रयोग](#प्रयोग-1)
+- [टोप भाषा कारढ़ड](#टोप-भाषा-कारढ़ड)
+    - [पढ़रयोग](#पढ़रयोग-1)
     - [Exclude individual repositories](#exclude-individual-repositories)
-    - [कुनै भाषा चुपौनॆ तरिका](#कुनै-भाषा-चुपौनॆ-तरिका)
-    - [धेरॆ भाषाहरु हेर्नको लागि](#धेरॆ-भाषाहरु-हेर्नको-लागि)
-    - [कम्प्याक्ट भाषा कार्ड ळयोउत](#कम्प्याक्ट-भाषा-कार्ड-ळयोउत)
+    - [कढ़नै भाषा चढ़पौनॆ तरिका](#कढ़नै-भाषा-चढ़पौनॆ-तरिका)
+    - [धेरॆ भाषाहरढ़ हेरढ़नको लागि](#धेरॆ-भाषाहरढ़-हेरढ़नको-लागि)
+    - [कमढ़पढ़याकढ़ट भाषा कारढ़ड ळयोउत](#कमढ़पढ़याकढ़ट-भाषा-कारढ़ड-ळयोउत)
     - [डेमो](#डेमो-1)
-- [वाका समय वीक स्तट्स](#वाका-समय-वीक-स्तट्स)
+- [वाका समय वीक सढ़तटढ़स](#वाका-समय-वीक-सढ़तटढ़स)
     - [डेमो](#डेमो-2)
-    - [सबै डेमोहरु](#सबै-डेमोहरु)
-    - [टिप्  (रेपो कार्डलाए अलिग्न गर्ने )](#टिप्--रेपो-कार्डलाए-अलिग्न-गर्ने-)
-  - [देप्लोय  आफ्नै  वेर्चेल  इन्स्तंस](#देप्लोय--आफ्नै--वेर्चेल--इन्स्तंस)
-  - [:sparkling\_heart: सहपोर्ट द प्रोजेक्ट](#sparkling_heart-सहपोर्ट-द-प्रोजेक्ट)
+    - [सबै डेमोहरढ़](#सबै-डेमोहरढ़)
+    - [टिपढ़  (रेपो कारढ़डलाझ अलिगढ़न गरढ़ने )](#टिपढ़--रेपो-कारढ़डलाझ-अलिगढ़न-गरढ़ने-)
+  - [देपढ़लोय  आफढ़नै  वेरढ़चेल  इनढ़सढ़तंस](#देपढ़लोय--आफढ़नै--वेरढ़चेल--इनढ़सढ़तंस)
+  - [:sparkling\_heart: सहपोरढ़ट द पढ़रोजेकढ़ट](#sparkling_heart-सहपोरढ़ट-द-पढ़रोजेकढ़ट)
 
-# गितहब स्टेट कार्ड 
+# गितहब सढ़टेट कारढ़ड 
 
 Copy-paste this into your markdown content, and that's it. Simple!
 
 Change the `?username=` value to your GitHub's username.
 
 ```md
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorabujamra)](https://github.com/vitorabujamra/github-readme-stats)
 ```
 
 _Note: Ranks are calculated based on user's stats, see [src/calculateRank.js](./src/calculateRank.js)_
 
-### लुकाउनु होस् व्यक्तिगत स्टेट
+### लढ़काउनढ़ होसढ़ वढ़यकढ़तिगत सढ़टेट
 
 To hide any specific stats, you can pass a query parameter `?hide=` with comma-separated values.
 
 > Options: `&hide=stars,commits,prs,issues,contribs`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorabujamra&hide=contribs,prs)
 ```
 
-### जोड्नु होस् निजी टोटल  योगदान
+### जोडढ़नढ़ होसढ़ निजी टोटल  योगदान
 
 You can add the count of all your private contributions to the total commits count by using the query parameter `?count_private=true`.
 
@@ -115,41 +115,41 @@ _Note: If you are deploying this project yourself, the private contributions wil
 > Options: `&count_private=true`
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorabujamra&count_private=true)
 ```
 
-### देखाउनु होस् इकोन 
+### देखाउनढ़ होसढ़ इकोन 
 
 To enable icons, you can pass `show_icons=true` in the query param, like so:
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorabujamra&show_icons=true)
 ```
 
-### विषयवस्तुहरू
+### विषयवसढ़तढ़हरू
 
 With inbuilt themes, you can customize the look of the card without doing any [manual customization](#customization).
 
 Use `?theme=THEME_NAME` parameter like so :-
 
 ```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorabujamra&show_icons=true&theme=radical)
 ```
 
-#### सबै इनबिल्ट विषयवस्तु :-
+#### सबै इनबिलढ़ट विषयवसढ़तढ़ :-
 
 dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 
-<img src="https://res.cloudinary.com/anuraghazra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stat Themes" width="600px"/>
+<img src="https://res.cloudinary.com/vitorabujamra/image/upload/v1595174536/grs-themes_l4ynja.png" alt="GitHub Readme Stat Themes" width="600px"/>
 
 
-तपैले सबै थेम्सहरु  प्रेविउ गर्न सक्नु हुनेछ । [all available themes](./themes/README.md) नत्र थेम्सहरुको config [theme config file](./themes/index.js) पनि हेर्न सक्नु हुनेछ र **थेम्सहरुमा योगदान पनि गर्नु सक्नु हुनेछ** :D ।
+तपैले सबै थेमढ़सहरढ़  पढ़रेविउ गरढ़न सकढ़नढ़ हढ़नेछ । [all available themes](./themes/README.md) नतढ़र थेमढ़सहरढ़को config [theme config file](./themes/index.js) पनि हेरढ़न सकढ़नढ़ हढ़नेछ र **थेमढ़सहरढ़मा योगदान पनि गरढ़नढ़ सकढ़नढ़ हढ़नेछ** :D ।
 
-### अनुकूलन
+### अनढ़कूलन
 
-तपैले `Stats Card` or `Repo Card` को अपपेअरंस कस्टमेज गर्न सक्नु हुनेछ  जसमा तपैले URL  params  पनि प्रयोग गर्नु सक्नु हुनेछ ।
+तपैले `Stats Card` or `Repo Card` को अपपेअरंस कसढ़टमेज गरढ़न सकढ़नढ़ हढ़नेछ  जसमा तपैले URL  params  पनि पढ़रयोग गरढ़नढ़ सकढ़नढ़ हढ़नेछ ।
 
-#### साधारण विकल्पहरू:
+#### साधारण विकलढ़पहरू:
 
 - `title_color` - Card's title color _(hex color)_
 - `text_color` - Body text color _(hex color)_
@@ -170,7 +170,7 @@ You can provide multiple comma-separated values in bg_color option to render a g
 
 > Note on cache: Repo cards have a default cache of 4 hours (14400 seconds) if the fork count & star count is less than 1k, otherwise, it's 2 hours (7200 seconds). Also, note that the cache is clamped to a minimum of 2 hours and a maximum of 24 hours
 
-#### Stats कार्ड विशेष विकल्पहरू:
+#### Stats कारढ़ड विशेष विकलढ़पहरू:
 
 - `hide` - Hides the specified items from stats _(Comma-separated values)_
 - `hide_title` - _(boolean)_
@@ -181,11 +181,11 @@ You can provide multiple comma-separated values in bg_color option to render a g
 - `line_height` - Sets the line-height between text _(number)_
 - `custom_title` - Sets a custom title for the card
 
-#### Repo कार्ड विशेष विकल्पहरू:
+#### Repo कारढ़ड विशेष विकलढ़पहरू:
 
 - `show_owner` - Show the owner name of the repo _(boolean)_
 
-#### भाषा कार्ड अनन्य विकल्पहरू :
+#### भाषा कारढ़ड अननढ़य विकलढ़पहरू :
 
 - `hide` - Hide the languages specified from the card _(Comma-separated values)_
 - `hide_title` - _(boolean)_
@@ -199,7 +199,7 @@ You can provide multiple comma-separated values in bg_color option to render a g
 > Language names should be uri-escaped, as specified in [Percent Encoding](https://en.wikipedia.org/wiki/Percent-encoding)
 > (i.e: `c++` should become `c%2B%2B`, `jupyter notebook` should become `jupyter%20notebook`, etc.)
 
-#### वकासमय  कार्ड विशेष विकल्प:
+#### वकासमय  कारढ़ड विशेष विकलढ़प:
 
 - `hide_title` - _(boolean)_
 - `line_height` - Sets the line-height between text _(number)_
@@ -208,45 +208,45 @@ You can provide multiple comma-separated values in bg_color option to render a g
 
 ---
 
-# गितहब अतिरिक्त पिन्स   
+# गितहब अतिरिकढ़त पिनढ़स   
 
 GitHub extra pins allow you to pin more than 6 repositories in your profile using a GitHub readme profile.
 
-GitHub फाल्तु पिनले तपाइँलाए GitHub रीडमी प्रोफाइल प्रयोग गरी तपाइँको प्रोफाइलमा छ ओटा भन्दा बढि प्रोजेक्टहरु पिन गर्न अनुमति दिन्छ ।
+GitHub फालढ़तढ़ पिनले तपाइझलाझ GitHub रीडमी पढ़रोफाइल पढ़रयोग गरी तपाइझको पढ़रोफाइलमा छ ओटा भनढ़दा बढि पढ़रोजेकढ़टहरढ़ पिन गरढ़न अनढ़मति दिनढ़छ ।
 
-हो! तपाईं अब pin पिन गरीएको छ ओटा प्रोजेक्ट सीमित हुनुहुन्छ ।
+हो! तपाईं अब pin पिन गरीझको छ ओटा पढ़रोजेकढ़ट सीमित हढ़नढ़हढ़नढ़छ ।
 
-### प्रयोग
+### पढ़रयोग
 
-कोदलाए  कपी- पेसेत  readme मा गर्नु होला र लिंक परिवतन गर्नु होला |
+कोदलाझ  कपी- पेसेत  readme मा गरढ़नढ़ होला र लिंक परिवतन गरढ़नढ़ होला |
 
-Endpoint: `api/pin?username=anuraghazra&repo=github-readme-stats`
+Endpoint: `api/pin?username=vitorabujamra&repo=github-readme-stats`
 
 ```md
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorabujamra&repo=github-readme-stats)](https://github.com/vitorabujamra/github-readme-stats)
 ```
 
 ### डेमो 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorabujamra&repo=github-readme-stats)](https://github.com/vitorabujamra/github-readme-stats)
 
 Use [show_owner](#customization) variable to include the repo's owner username
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vitorabujamra&repo=github-readme-stats&show_owner=true)](https://github.com/vitorabujamra/github-readme-stats)
 
-# टोप भाषा कार्ड 
+# टोप भाषा कारढ़ड 
 
-टोप भाषाकार्डले github परयोग गर्नेहरुको प्रोग्रम्मिंग भाषाहरु देखाऊने गर्दछ |. 
+टोप भाषाकारढ़डले github परयोग गरढ़नेहरढ़को पढ़रोगढ़रमढ़मिंग भाषाहरढ़ देखाऊने गरढ़दछ |. 
 
-_NOTE: टोप भाषाहरुले आफ्नो सिपलाए संकेत गरेको होईन | योचै GitHub  Metricबाट धेरै कुन भाषा परयोग भाकोलाए संकेत गरेको हो |
-### प्रयोग 
+_NOTE: टोप भाषाहरढ़ले आफढ़नो सिपलाझ संकेत गरेको होईन | योचै GitHub  Metricबाट धेरै कढ़न भाषा परयोग भाकोलाझ संकेत गरेको हो |
+### पढ़रयोग 
 
-कोदलाए  कपी- पेसेत  readme मा गर्नु होला र लिंक परिवतन गर्नु होला |
+कोदलाझ  कपी- पेसेत  readme मा गरढ़नढ़ होला र लिंक परिवतन गरढ़नढ़ होला |
 
-Endpoint: `api/top-langs?username=anuraghazra`
+Endpoint: `api/top-langs?username=vitorabujamra`
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorabujamra)](https://github.com/vitorabujamra/github-readme-stats)
 ```
 
 ### Exclude individual repositories
@@ -254,131 +254,131 @@ Endpoint: `api/top-langs?username=anuraghazra`
 You can use `?exclude_repo=repo1,repo2` parameter to exclude individual repositories.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorabujamra&exclude_repo=github-readme-stats,vitorabujamra.github.io)](https://github.com/vitorabujamra/github-readme-stats)
 ```
 
-### कुनै भाषा चुपौनॆ तरिका 
+### कढ़नै भाषा चढ़पौनॆ तरिका 
 
 You can use `?hide=language1,language2` parameter to hide individual languages.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorabujamra&hide=javascript,html)](https://github.com/vitorabujamra/github-readme-stats)
 ```
 
-### धेरॆ भाषाहरु हेर्नको लागि 
+### धेरॆ भाषाहरढ़ हेरढ़नको लागि 
 
 You can use the `&langs_count=` option to increase or decrease the number of languages shown on the card. Valid values are integers between 1 and 10 (inclusive), and the default is 5.
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorabujamra&langs_count=8)](https://github.com/vitorabujamra/github-readme-stats)
 ```
 
-### कम्प्याक्ट भाषा कार्ड ळयोउत 
+### कमढ़पढ़याकढ़ट भाषा कारढ़ड ळयोउत 
 
-तपाइले `&layout=compact` ओप्तिओनपनि  कार्ड देसिग्न को लागि परहयोग गर्न सक्नु हुन्क्ष 
+तपाइले `&layout=compact` ओपढ़तिओनपनि  कारढ़ड देसिगढ़न को लागि परहयोग गरढ़न सकढ़नढ़ हढ़नढ़कढ़ष 
 
 ```md
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorabujamra&layout=compact)](https://github.com/vitorabujamra/github-readme-stats)
 ```
 
 ### डेमो 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorabujamra)](https://github.com/vitorabujamra/github-readme-stats)
 
 - Compact layout
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorabujamra&layout=compact)](https://github.com/vitorabujamra/github-readme-stats)
 
-# वाका समय वीक स्तट्स 
+# वाका समय वीक सढ़तटढ़स 
 
 Change the `?username=` value to your [WakaTime](https://wakatime.com) username.
 
 ```md
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/vitorabujamra/github-readme-stats)
 ```
 
 ###  डेमो
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/vitorabujamra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&hide_progress=true)](https://github.com/vitorabujamra/github-readme-stats)
 
 ---
 
-### सबै डेमोहरु  
+### सबै डेमोहरढ़  
 
-- देफौल्ट 
+- देफौलढ़ट 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorabujamra)
 
-- हिदिंग स्पेचific स्तट्स 
+- हिदिंग सढ़पेचific सढ़तटढ़स 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorabujamra&hide=contribs,issues)
 
-- इकोनहरु शो गर्ने 
+- इकोनहरढ़ शो गरढ़ने 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=issues&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorabujamra&hide=issues&show_icons=true)
 
-- सबै कमितहरु 
+- सबै कमितहरढ़ 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorabujamra&include_all_commits=true)
 
-- थेम्स 
+- थेमढ़स 
 
-कुनै एउटा चोज गर्नुस [default themes](#themes)
+कढ़नै झउटा चोज गरढ़नढ़स [default themes](#themes)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorabujamra&show_icons=true&theme=radical)
 
-- घ्रदिएन्त 
+- घढ़रदिझनढ़त 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorabujamra&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-- स्तत्स कार्ड लाए कस्तोमेज गर्ने    
+- सढ़ततढ़स कारढ़ड लाझ कसढ़तोमेज गरढ़ने    
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=vitorabujamra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-- सेत्तिंग  कार्ड  लोचले 
+- सेतढ़तिंग  कारढ़ड  लोचले 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=anuraghazra&locale=es)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=vitorabujamra&locale=es)
 
-- रेपो कार्डलाई एडित गर्नु 
+- रेपो कारढ़डलाई झडित गरढ़नढ़ 
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=vitorabujamra&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 - टोप भाषा 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorabujamra)](https://github.com/vitorabujamra/github-readme-stats)
 
-- वक समय कार्ड 
+- वक समय कारढ़ड 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/vitorabujamra/github-readme-stats)
 
 ---
 
-### टिप्  (रेपो कार्डलाए अलिग्न गर्ने )
+### टिपढ़  (रेपो कारढ़डलाझ अलिगढ़न गरढ़ने )
 
-तपाइले इमेजलाई सइद बय सइद  अलीग्न गर्न सक्नु हुदैन तेसैले येसरी गर्नु होस् :
+तपाइले इमेजलाई सइद बय सइद  अलीगढ़न गरढ़न सकढ़नढ़ हढ़दैन तेसैले येसरी गरढ़नढ़ होसढ़ :
 
 ```html
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/vitorabujamra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vitorabujamra&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/vitorabujamra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vitorabujamra&repo=convoychat" />
 </a>
 ```
 
-##  देप्लोय  आफ्नै  वेर्चेल  इन्स्तंस 
+##  देपढ़लोय  आफढ़नै  वेरढ़चेल  इनढ़सढ़तंस 
 
 #### [Check Out Step By Step Video Tutorial By @codeSTACKr](https://youtu.be/n6d4KHSKqGk?t=107)
 
-गितहब को अपिएले पाच हजार रेक़ुएस्त प्रति घण्टा मात्र मिल्क्ष ।  मेरो 
- `https://github-readme-stats.vercel.app/api` प्रोजेक्ट मा रेत्  लिमिट हुन सक्क्ष । तर तपाइले आफ्नै वेर्चेल सेर्वेर मा होस्ट गर्नु बाको छ बने यो प्रोब्लेम हुदैन।  
- होस्ट गर्ने तरिका यस पकारका षन ।
+गितहब को अपिझले पाच हजार रेक़ढ़झसढ़त पढ़रति घणढ़टा मातढ़र मिलढ़कढ़ष ।  मेरो 
+ `https://github-readme-stats.vercel.app/api` पढ़रोजेकढ़ट मा रेतढ़  लिमिट हढ़न सकढ़कढ़ष । तर तपाइले आफढ़नै वेरढ़चेल सेरढ़वेर मा होसढ़ट गरढ़नढ़ बाको छ बने यो पढ़रोबढ़लेम हढ़दैन।  
+ होसढ़ट गरढ़ने तरिका यस पकारका षन ।
 
-NOTE: Since [#58](https://github.com/anuraghazra/github-readme-stats/pull/58) we should be able to handle more than 5k requests and have no issues with downtime :D
+NOTE: Since [#58](https://github.com/vitorabujamra/github-readme-stats/pull/58) we should be able to handle more than 5k requests and have no issues with downtime :D
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/anuraghazra/github-readme-stats)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vitorabujamra/github-readme-stats)
 
 <details>
  <summary><b> Guide on setting up Vercel  🔨 </b></summary>
@@ -401,22 +401,22 @@ NOTE: Since [#58](https://github.com/anuraghazra/github-readme-stats/pull/58) we
 
 </details>
 
-## :sparkling_heart: सहपोर्ट द प्रोजेक्ट 
+## :sparkling_heart: सहपोरढ़ट द पढ़रोजेकढ़ट 
 
-म सके सम्म आफ्नो प्रोजेक्ट हरु ओपेन्सोउर्चे गर्छु र अरु ले पनि सहयोग गर्क्षु । मेले सहयोग गर्दा आफ्नो समय पनि देरै ने दिन्क्षु । तपाइहरु ले यो सेर्विचेस फ्री मा चलाउनु सक्नु हुनेक्ष ।
+म सके समढ़म आफढ़नो पढ़रोजेकढ़ट हरढ़ ओपेनढ़सोउरढ़चे गरढ़छढ़ र अरढ़ ले पनि सहयोग गरढ़कढ़षढ़ । मेले सहयोग गरढ़दा आफढ़नो समय पनि देरै ने दिनढ़कढ़षढ़ । तपाइहरढ़ ले यो सेरढ़विचेस फढ़री मा चलाउनढ़ सकढ़नढ़ हढ़नेकढ़ष ।
 
-येदि तपाइले यो प्रोजेक्ट चलाउनु बाकोक्ष बने र मलाई अझै प्रसंसा गर्ने हो बने तपाइले थुप्रै तरिका ले गर्नु सक्नु हुने छ :-
+येदि तपाइले यो पढ़रोजेकढ़ट चलाउनढ़ बाकोकढ़ष बने र मलाई अझै पढ़रसंसा गरढ़ने हो बने तपाइले थढ़पढ़रै तरिका ले गरढ़नढ़ सकढ़नढ़ हढ़ने छ :-
 
-- यो प्रोजेक्टमा तपाइले प्रहयोग गर्दा मलाई क्रेडिट दिन सक्नु हुनेक्ष ।
-- तपाइले GitHub ReadMe Stats स्तार्रेड गर्न सक्नु हुनेक्ष  :rocket:
-- [![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/anuraghazra) - तपाइले पेपाल बाट पनि सहयोग (डक्क्षिन) गर्न सक्नु हुनेक्ष | म  ~~कोफी ~~ चिया . :tea: किन्न सक्क्षु ।
+- यो पढ़रोजेकढ़टमा तपाइले पढ़रहयोग गरढ़दा मलाई कढ़रेडिट दिन सकढ़नढ़ हढ़नेकढ़ष ।
+- तपाइले GitHub ReadMe Stats सढ़तारढ़रेड गरढ़न सकढ़नढ़ हढ़नेकढ़ष  :rocket:
+- [![paypal.me/vitorabujamra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/vitorabujamra) - तपाइले पेपाल बाट पनि सहयोग (डकढ़कढ़षिन) गरढ़न सकढ़नढ़ हढ़नेकढ़ष | म  ~~कोफी ~~ चिया . :tea: किनढ़न सकढ़कढ़षढ़ ।
 
-धन्याबाद! :heart:
+धनढ़याबाद! :heart:
 
 ---
 
-![https://vercel.com](https://res.cloudinary.com/anuraghazra/image/upload/v1597827714/powered-by-vercel_1_ug4uro.svg)
+![https://vercel.com](https://res.cloudinary.com/vitorabujamra/image/upload/v1597827714/powered-by-vercel_1_ug4uro.svg)
 
-योगधन को लागी स्वगत छ! <3
+योगधन को लागी सढ़वगत छ! <3
 
-जाभास्क्रिप्ट बाटा बनको :heart: 
+जाभासढ़कढ़रिपढ़ट बाटा बनको :heart: 
